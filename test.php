@@ -1,4 +1,4 @@
- <php
+<?php
  
  $test = array(
         "a" => "apple",
